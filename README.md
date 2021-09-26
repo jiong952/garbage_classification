@@ -1,3 +1,3 @@
 # garbage_classification
 食荒小程序
-CocosCreator
+CocosCreator+Java+Mysql
