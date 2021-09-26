@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "39d5f799-f2ea-4b4d-8a02-d1269a0f15b6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 280,
+  "height": 371,
+  "platformSettings": {},
+  "subMetas": {
+    "食荒宝宝2": {
+      "ver": "1.0.4",
+      "uuid": "225ec139-06f0-452d-872e-eb530e56b4d6",
+      "rawTextureUuid": "39d5f799-f2ea-4b4d-8a02-d1269a0f15b6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": -5.5,
+      "trimX": 21,
+      "trimY": 35,
+      "width": 228,
+      "height": 312,
+      "rawWidth": 280,
+      "rawHeight": 371,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
